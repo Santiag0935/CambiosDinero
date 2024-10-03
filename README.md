@@ -28,7 +28,7 @@ Una vez validado el monto, el programa calculará y mostrará el equivalente en 
 
 Requisitos:
 
--Python 3.x
+- Python 3.x
 
 Notas:
 - Las tasas de cambio utilizadas son aproximadas y pueden variar.
