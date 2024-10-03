@@ -26,11 +26,11 @@ El script solicita al usuario que ingrese un monto en pesos mexicanos, si el mon
 
 Una vez validado el monto, el programa calculará y mostrará el equivalente en las diferentes monedas.
 
-Requisitos
+Requisitos:
 
 -Python 3.x
 
-Notas
+Notas:
 - Las tasas de cambio utilizadas son aproximadas y pueden variar.
 - Se recomienda actualizar las tasas de cambio según las fuentes oficiales si se necesita mayor precisión.
 
