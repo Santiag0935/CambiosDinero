@@ -1,4 +1,4 @@
-# CambiosDinero
+# CambiosDinero by Santiag0935
 Portafolio
 
 Hola y buen dia!
@@ -19,15 +19,7 @@ El script solicita al usuario que ingrese un monto en pesos mexicanos. Si el mon
 Requisitos
 Python 3.x
 
-Instrucciones de Uso
-1. Clona este repositorio o descarga el archivo del script.
+Notas
+- Las tasas de cambio utilizadas son aproximadas y pueden variar.
+- Se recomienda actualizar las tasas de cambio según las fuentes oficiales si se necesita mayor precisión.
 
-2. Abre una terminal y navega a la carpeta donde se encuentra el script.
-
-3. Ejecuta el script utilizando el siguiente comando:
-
-      python nombre_del_script.py
-
-4. Ingresa un monto en pesos mexicanos cuando se te solicite.
-
-Revisa las conversiones mostradas en la consola.
