@@ -22,10 +22,13 @@ Este programa convierte un monto ingresado en pesos mexicanos a varias divisas i
 
 Descripción:
 
-El script solicita al usuario que ingrese un monto en pesos mexicanos. Si el monto ingresado es negativo, se le pedirá que ingrese un monto positivo. Una vez validado el monto, el programa calculará y mostrará el equivalente en las diferentes monedas.
+El script solicita al usuario que ingrese un monto en pesos mexicanos, si el monto ingresado es negativo, se le pedirá que ingrese un monto positivo. 
+
+Una vez validado el monto, el programa calculará y mostrará el equivalente en las diferentes monedas.
 
 Requisitos
-Python 3.x
+
+-Python 3.x
 
 Notas
 - Las tasas de cambio utilizadas son aproximadas y pueden variar.
